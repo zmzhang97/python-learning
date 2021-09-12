@@ -2,6 +2,9 @@
 **此项目为mooc网站的北京理工大学的 嵩天 、黄天羽 、礼欣 三位老师的课程笔记**
 
 ## unit1:[U1.Python基本语法元素](https://github.com/zmzhang97/python-learning/blob/main/Unit%201.ipynb)
+
+[CSDN](https://blog.csdn.net/zmzhangcsdn/article/details/105187785?spm=1001.2014.3001.5501)
+
 ## unit2:[U2.基本图形绘制](https://github.com/zmzhang97/python-learning/blob/main/Unit%202.ipynb)
 ## unit3:[U3.基本数据类型](https://github.com/zmzhang97/python-learning/blob/main/Unit%203.ipynb)
 ## unit4:[U4.程序的控制结构](https://github.com/zmzhang97/python-learning/blob/main/Unit4.ipynb)
